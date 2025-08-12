@@ -1,0 +1,22 @@
+2025-08-12 13:25:38,049 - ERROR - Error placing market order: name 'symbol' is not defined
+2025-08-12 13:26:07,116 - ERROR - Error placing market order: 'MarketOrder' object has no attribute 'symbol'
+2025-08-12 13:27:00,207 - ERROR - Error placing market order: 'MarketOrder' object has no attribute 'symbol'
+2025-08-12 13:28:53,241 - ERROR - Error placing market order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-08-12 13:29:31,764 - ERROR - Error placing market order: APIError(code=-1022): Signature for this request is not valid.
+2025-08-12 13:30:09,485 - ERROR - Error placing market order: APIError(code=-2019): Margin is insufficient.
+2025-08-12 13:30:51,103 - INFO - Market order placed: {'orderId': 5572517340, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ270d3728a44281ed860f0d', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '1.000', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1754985675790}
+2025-08-12 17:56:05,952 - ERROR - Error placing market order: API Secret required for private endpoints
+2025-08-12 17:57:32,291 - INFO - 7831bfd34acc879805eabe4615d565d42ea4fd00c8e7e9048db95751c3c33571
+2025-08-12 17:57:42,958 - ERROR - Error placing market order: API Secret required for private endpoints
+2025-08-12 18:01:13,559 - INFO - 7831bfd34acc879805eabe4615d565d42ea4fd00c8e7e9048db95751c3c33571
+2025-08-12 18:01:30,007 - ERROR - Error placing market order: API Secret required for private endpoints
+2025-08-12 18:01:47,497 - INFO - 7831bfd34acc879805eabe4615d565d42ea4fd00c8e7e9048db95751c3c33571
+2025-08-12 18:02:14,142 - ERROR - Invalid order type: 1
+2025-08-12 18:02:16,572 - INFO - 7831bfd34acc879805eabe4615d565d42ea4fd00c8e7e9048db95751c3c33571
+2025-08-12 18:02:27,564 - ERROR - Error placing market order: APIError(code=-2019): Margin is insufficient.
+2025-08-12 18:02:32,792 - INFO - 7831bfd34acc879805eabe4615d565d42ea4fd00c8e7e9048db95751c3c33571
+2025-08-12 18:02:40,181 - ERROR - Error placing market order: APIError(code=-2019): Margin is insufficient.
+2025-08-12 18:02:42,972 - INFO - 7831bfd34acc879805eabe4615d565d42ea4fd00c8e7e9048db95751c3c33571
+2025-08-12 18:02:53,900 - ERROR - Error placing market order: APIError(code=-2019): Margin is insufficient.
+2025-08-12 18:02:57,300 - INFO - 7831bfd34acc879805eabe4615d565d42ea4fd00c8e7e9048db95751c3c33571
+2025-08-12 18:03:14,549 - INFO - Market order placed: {'orderId': 5573568640, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ4b3e79106e74df51f08da1', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '1.000', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1755002019301}

@@ -1,0 +1,14 @@
+2025-08-12 13:39:28,738 - ERROR - Error placing OCO: APIError(code=-2014): API-key format invalid.
+2025-08-12 13:39:59,667 - ERROR - Error placing OCO: APIError(code=-1021): Timestamp for this request is outside of the recvWindow.
+2025-08-12 13:41:37,232 - ERROR - Error placing OCO: 'Client' object has no attribute 'order_oco'
+2025-08-12 13:42:29,218 - ERROR - Error placing OCO: APIError(code=-1102): Mandatory parameter 'aboveType' was not sent, was empty/null, or malformed.
+2025-08-12 13:51:29,835 - INFO - Time synchronized with Binance Futures server.
+2025-08-12 13:51:29,835 - ERROR - Error placing OCO orders: 'Client' object has no attribute 'futures_create_oco_order'
+2025-08-12 13:52:39,567 - INFO - Time synchronized with Binance Futures server.
+2025-08-12 13:52:39,601 - ERROR - Error placing OCO orders: 'Client' object has no attribute 'futures_create_oco_order'
+2025-08-12 17:47:04,038 - INFO - Time synchronized with Binance Futures server.
+2025-08-12 17:47:04,546 - ERROR - Error placing manual OCO: APIError(code=-2014): API-key format invalid.
+2025-08-12 17:47:38,382 - INFO - Time synchronized with Binance Futures server.
+2025-08-12 17:47:38,895 - ERROR - Error placing manual OCO: APIError(code=-2021): Order would immediately trigger.
+2025-08-12 17:55:10,369 - INFO - Time synchronized with Binance Futures server.
+2025-08-12 17:55:10,886 - ERROR - Error placing manual OCO: APIError(code=-2021): Order would immediately trigger.
